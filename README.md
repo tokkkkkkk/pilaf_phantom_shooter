@@ -7,9 +7,8 @@ Pilaf Phantom Shooter is a two-player 2D Java game built with Swing. Players mov
 - Java Development Kit (JDK) 16 or newer
 - Eclipse IDE, IntelliJ IDEA, or VS Code with Java support
 
-Eclipse is mentioned because this project includes Eclipse configuration files
-(`.project`, `.classpath`, and `.settings`). It is not required; the game can
-also be compiled and run from the command line.
+Eclipse is mentioned because this project includes Eclipse configuration files because it was originally created with that IDE.
+It is not required; the game can also be compiled and run from the command line.
 
 ## Run with Eclipse
 
